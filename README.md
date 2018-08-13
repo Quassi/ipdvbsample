@@ -5,7 +5,7 @@ https://en.wikipedia.org/wiki/Multiprotocol_Encapsulation
 
 Setup: Nokia Mediamaster 9500 connected with a SCSI-cable to the PC. 
 
-Thanks to Dr. Overflow for the DVB2000 software, the creator of the MM9500 firmware to make this all possible! It was fun and instructive creating this piece together with you!
+Thanks to Dr. Overflow (Uli Herrmann) for the DVB2000 software, the creator of the MM9500 firmware to make this all possible! It was fun and instructive creating this piece together with you!
 
 v0.0
   This is Visual C++ 5.0 code, it'll show you how to handle with SCSI 
